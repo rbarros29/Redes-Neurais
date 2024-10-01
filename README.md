@@ -1,5 +1,9 @@
 # Trabalho de Redes Neurais
-
+Alunos: 
+Gabriel Gontijo
+RA - 121118394
+Rafael Barros
+RA - 121116933
 <h1>Relatório Final</h1>
 
 <h3>Pesquisa Teórica</h3>
